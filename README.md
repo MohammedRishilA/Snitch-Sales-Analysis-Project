@@ -44,7 +44,7 @@ This project demonstrates how data analysis and visualization can be used to unc
 
 ## 🔹 Author
 - Name: Mohammed Rishil A
-- Role: Data Analyst
+- Role: Data Analyst | BE . Computer Science | SQL • Python • Excel• Power BI • Tableau  | Data-Driven Insights
 
 ## 🔹 Connect With Me
 - LinkedIn:[Mohammed Rishil A Linkedin](https://www.linkedin.com/in/mohammed-rishil-a-/)
