@@ -35,4 +35,4 @@ The goal is to understand sales performance, identify trends, and improve profit
 
 > 📊 This dashboard shows sales trends, profit, and key KPIs.
 ## 🔹 Conclusion
-This project helps businesses make data-driven decisions by identifying key sales trends and performance metrics.
+This project demonstrates how data analysis and visualization can be used to uncover meaningful business insights. By combining Python for data cleaning and Power BI for dashboard creation, the project highlights sales trends, identifies top-performing products, and analyzes profit margins. These insights can help businesses improve decision-making and overall performance.
