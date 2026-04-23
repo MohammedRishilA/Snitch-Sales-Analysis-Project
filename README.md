@@ -25,7 +25,7 @@ The goal is to understand sales performance, identify trends, and improve profit
 - Profit margin varies by region
 
 ## 🔹 Files in This Repository
-- `/powerbi` → Dashboard file (.pbix)
+- `/powerbi` → Dashboard file ([.pbix](https://github.com/MohammedRishilA/Snitch-Sales-Analysis-Project/blob/main/Snitch_Fashion_Sales_.pbix))
 - `/python` → Jupyter Notebook (https://github.com/MohammedRishilA/Snitch-Sales-Analysis-Project/blob/main/Snitch_Fashion_Sale_%20.ipynb)
 - `/data` → Dataset (https://github.com/MohammedRishilA/Snitch-Sales-Analysis-Project/blob/main/Snitch_Fashion_Sales__.csv)
 - `/images` → Dashboard screenshots
