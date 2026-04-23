@@ -47,6 +47,6 @@ This project demonstrates how data analysis and visualization can be used to unc
 - Role: Data Analyst
 
 ## 🔹 Connect With Me
-- LinkedIn :[Mohammed Rishil A Linkedin](https://www.linkedin.com/in/mohammed-rishil-a-/)
-- GitHub   :[Mohammed Rishil A GitHub](https://github.com/MohammedRishilA)
+- LinkedIn:[Mohammed Rishil A Linkedin](https://www.linkedin.com/in/mohammed-rishil-a-/)
+- GitHub  :[Mohammed Rishil A GitHub](https://github.com/MohammedRishilA)
 
