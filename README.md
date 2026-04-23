@@ -36,3 +36,17 @@ The goal is to understand sales performance, identify trends, and improve profit
 > 📊 This dashboard shows sales trends, profit, and key KPIs.
 ## 🔹 Conclusion
 This project demonstrates how data analysis and visualization can be used to uncover meaningful business insights. By combining Python for data cleaning and Power BI for dashboard creation, the project highlights sales trends, identifies top-performing products, and analyzes profit margins. These insights can help businesses improve decision-making and overall performance.
+
+## 🔹 Future Improvements
+- Add real-time data integration
+- Improve dashboard interactivity
+- Include more advanced analytics
+
+## 🔹 Author
+- Name: Mohammed Rishil A
+- Role: Data Analyst
+
+## 🔹 Connect With Me
+- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammed-rishil-a-/)
+- GitHub: [https://github.com/your-username](https://github.com/MohammedRishilA)
+
