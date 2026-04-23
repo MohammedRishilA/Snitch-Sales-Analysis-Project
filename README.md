@@ -26,7 +26,7 @@ The goal is to understand sales performance, identify trends, and improve profit
 
 ## 🔹 Files in This Repository
 - `/powerbi` → Dashboard file ([.pbix](https://github.com/MohammedRishilA/Snitch-Sales-Analysis-Project/blob/main/Snitch_Fashion_Sales_.pbix))
-- `/python` → Jupyter Notebook ([.ipynb]https://github.com/MohammedRishilA/Snitch-Sales-Analysis-Project/blob/main/Snitch_Fashion_Sale_%20.ipynb)
+- `/python` → Jupyter Notebook ([.ipynb](https://github.com/MohammedRishilA/Snitch-Sales-Analysis-Project/blob/main/Snitch_Fashion_Sale_%20.ipynb))
 - `/data` → Dataset (https://github.com/MohammedRishilA/Snitch-Sales-Analysis-Project/blob/main/Snitch_Fashion_Sales__.csv)
 - `/images` → Dashboard screenshots (https://github.com/MohammedRishilA/Snitch-Sales-Analysis-Project/blob/main/Snitch_Fashion_Sales_-1.png)
 
